@@ -1,8 +1,8 @@
 | № | Название и ссылка | О чем проект | Навыки и инструменты |
 | :---: | :---: | :---: | :---: |
-| 1 | [Исследование данных онлайн-кинотеатра](https://github.com/theoldvalyria/SQL_analysis/tree/main/Subqueries) | SQL код для работы с базой данных онлайн-кинотеатра "Окко". | <kbd>PostgreSQL</kbd> <kbd>Subqueries</kbd> |
-| 2 | [Исследование продаж магазина](https://github.com/theoldvalyria/SQL_analysis/tree/main/windows) | SQL код для работы с базой данных магазина Amazon. | <kbd>PostgreSQL</kbd> <kbd>Windows</kbd> |
-| 3 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
+| 1 | [Исследование данных онлайн-кинотеатра](https://github.com/theoldvalyria/SQL_analysis/tree/main/Subqueries) | Анализ данных онлайн-кинотеатра "Окко": вычисление средних и суммарных показателей товаров за месяцы, включая предыдущие и текущие периоды, а также квартальные итоги с помощью SQL запросов.| <kbd>PostgreSQL</kbd> <kbd>Subqueries</kbd> |
+| 2 | [Исследование продаж магазина](https://github.com/theoldvalyria/SQL_analysis/tree/main/windows) | Анализ данных магазина Amazon: исследование информации о пользователях, фильмах и их покупках для выявления ключевых трендов и паттернов  с помощью SQL запросов.| <kbd>PostgreSQL</kbd> <kbd>Windows</kbd> |
+| 3 | [Исследование платформы для бронирования жилья](https://github.com/theoldvalyria/SQL_analysis/tree/main/Data_types) | Анализ данных Airbnb в Берлине: исследование характеристик жилья, цен, доступности, отзывов и регистраций хостов с помощью SQL запросов. | <kbd>ClickHouse</kbd>  <kbd>Type Conversion Functions</kbd> |
 | 4 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
 | 4 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
 | 4 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
